@@ -15,7 +15,7 @@ const TasksCard = ({ task }) => {
             </Card.Header>
             <Card.Footer className='flex gap-5'>
                 {
-                    tags.map((tag,index)=><div key={index} >
+                    tags?.map((tag,index)=><div key={index} >
                         {tag}
                     </div>)
                 }
