@@ -1,0 +1,108 @@
+[
+    {
+        "id": 1,
+        "title": "Finish Next.js Authentication Module",
+        "description": "Implement login, signup, JWT token handling and protected routes for the app.",
+        "priority": "High",
+        "status": "In Progress",
+        "due_date": "2026-04-25",
+        "created_at": "2026-04-18",
+        "tags": [
+            "development",
+            "backend",
+            "auth"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Design Homepage Banner",
+        "description": "Create a responsive banner section with CTA and hero image.",
+        "priority": "Medium",
+        "status": "Pending",
+        "due_date": "2026-04-23",
+        "created_at": "2026-04-19",
+        "tags": [
+            "ui",
+            "design",
+            "frontend"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Fix Product API Bug",
+        "description": "Resolve issue where product list fails to load when server restarts.",
+        "priority": "High",
+        "status": "Pending",
+        "due_date": "2026-04-21",
+        "created_at": "2026-04-17",
+        "tags": [
+            "bugfix",
+            "api"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Prepare Portfolio Case Study",
+        "description": "Write detailed case study for the food ordering project with screenshots.",
+        "priority": "Low",
+        "status": "Pending",
+        "due_date": "2026-04-30",
+        "created_at": "2026-04-16",
+        "tags": [
+            "writing",
+            "portfolio"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Optimize Images",
+        "description": "Convert large images to WebP and implement lazy loading.",
+        "priority": "Medium",
+        "status": "In Progress",
+        "due_date": "2026-04-26",
+        "created_at": "2026-04-15",
+        "tags": [
+            "performance",
+            "frontend"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Add Search and Filter Feature",
+        "description": "Implement search bar and category dropdown for products page.",
+        "priority": "High",
+        "status": "Completed",
+        "due_date": "2026-04-20",
+        "created_at": "2026-04-14",
+        "tags": [
+            "feature",
+            "frontend"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Setup MongoDB Database",
+        "description": "Create collections and connect backend API with MongoDB Atlas.",
+        "priority": "High",
+        "status": "Pending",
+        "due_date": "2026-04-28",
+        "created_at": "2026-04-19",
+        "tags": [
+            "database",
+            "backend"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Implement Dark Mode",
+        "description": "Add dark/light theme toggle using Tailwind and local storage.",
+        "priority": "Medium",
+        "status": "Pending",
+        "due_date": "2026-04-27",
+        "created_at": "2026-04-20",
+        "tags": [
+            "ui",
+            "feature"
+        ]
+    }
+]
