@@ -84,7 +84,7 @@ const AddTasks = ({ createTasks }) => {
                                         <Button slot={'close'} variant="secondary">
                                             Cancel
                                         </Button>
-                                        <Button type="submit">Tasks Submit</Button>
+                                        <Button slot={'close'} type="submit">Tasks Submit</Button>
                                     </Modal.Footer>
                                 </form>
                             </Surface>

@@ -12,6 +12,7 @@ const Navbars = () => {
                 <ul className="flex items-center gap-4">
                     <li><Link href="/">Home</Link></li>
                     <li><Link href="/tasks">Tasks</Link></li>
+                    <li><Link href="/book">Books</Link></li>
                 </ul>
                 <div>
                     <ThemeSwitch></ThemeSwitch>

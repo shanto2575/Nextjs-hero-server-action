@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "category": "Self Development",
+        "price": 450,
+        "rating": 4.8,
+        "stock": 12,
+        "tags": [
+            "habit",
+            "productivity",
+            "mindset"
+        ],
+        "cover": "https://i.ibb.co.com/0jqHpnp/atomic-habits.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Rich Dad Poor Dad",
+        "author": "Robert Kiyosaki",
+        "category": "Finance",
+        "price": 380,
+        "rating": 4.7,
+        "stock": 8,
+        "tags": [
+            "money",
+            "finance",
+            "business"
+        ],
+        "cover": "https://i.ibb.co.com/6J8qXkM/richdad.jpg"
+    },
+    {
+        "id": 3,
+        "title": "The Psychology of Money",
+        "author": "Morgan Housel",
+        "category": "Finance",
+        "price": 420,
+        "rating": 4.9,
+        "stock": 15,
+        "tags": [
+            "money",
+            "investing",
+            "mindset"
+        ],
+        "cover": "https://i.ibb.co.com/T0HnZKr/psychology-money.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "category": "Programming",
+        "price": 650,
+        "rating": 4.9,
+        "stock": 5,
+        "tags": [
+            "coding",
+            "software",
+            "best practices"
+        ],
+        "cover": "https://i.ibb.co.com/6vVJY7B/clean-code.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Deep Work",
+        "author": "Cal Newport",
+        "category": "Productivity",
+        "price": 390,
+        "rating": 4.6,
+        "stock": 10,
+        "tags": [
+            "focus",
+            "work",
+            "success"
+        ],
+        "cover": "https://i.ibb.co.com/Bz1nW9R/deep-work.jpg"
+    }
+]
