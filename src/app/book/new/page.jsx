@@ -4,8 +4,9 @@ import { NewBook } from '../../lib/book/action'
 
 const page = () => {
     return (
-        <div>
-            <div>
+        <div className=''>
+            <div className='flex items-center justify-center flex-col gap-5 space-y-4 m-4'>
+                <h2>ADD NEW BOOK</h2>
                 <form action={NewBook} className="flex flex-col gap-4">
                     <TextField className="w-full" name="title" type="text">
                         <Label>Tittle</Label>

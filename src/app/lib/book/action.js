@@ -19,7 +19,7 @@ export const NewBook=async(FormData)=>{
     const NEWBOOK=Object.fromEntries(FormData)
     console.log(NEWBOOK)
 
-    const res=postBook(NEWBOOK)
+    const res=await postBook(NEWBOOK)
     if(res.ok){
         revalidatePath('/book')
         redirect('/book')
